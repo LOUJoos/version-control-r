@@ -9,3 +9,4 @@ length(Gender) #to confirm if we have 5 entries
 ## Use the data.frame function to create a data frame called stuMarks
 stuMarks <- data.frame(Names, Scores, Gender)
 stuMarks
+
